@@ -1,0 +1,15 @@
+# Ignore build files
+build/
+*.o
+*.out
+*.exe
+*.dll
+
+# Ignore compiled binaries
+app
+game
+test
+
+# Ignore temporary files
+*.log
+*.tmp
